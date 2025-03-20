@@ -36,7 +36,7 @@ These steps ensure that your Wiz devices are properly configured and ready to be
    - Create a new Worker and paste the code from the provided worker script.
    - Set up a KV namespace (e.g., STATE_KV) and bind it to your Worker.
    - Bind organizationId, Cookie (connect.sid), lightId, macAddress of your lamp to your worker
-        *To get organizationId, Cookie (connect.sid), lightId, macAddress, you can use this tool [Wiz Inspect Extension](https://pro.wizconnected.com/dashboard/)*
+        *To get organizationId, Cookie (connect.sid), lightId, macAddress, you can use this tool [Wiz Inspector Extension](https://github.com/muhammad-shalahuddin-amrullah/Wiz-Inspector)*
 
 
 - **Deploy:**
